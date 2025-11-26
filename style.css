@@ -89,6 +89,35 @@
             font-size: 16px;
             max-width: 400px; 
         }
+        
+         .projetos_futuros {
+            background-color: #1c1c1c;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .projetos_futuros-heading {
+            margin: 0;
+            margin-bottom: 30px;
+            color: #15D300;
+        }
+
+        .projetos_futuros-container {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        .projeto-item {
+            margin-bottom: 25px;
+        }
+
+        .projeto-subtitulo {
+            color: #15D300;
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
          
         .footer{
             background-color:#14c500 ;
